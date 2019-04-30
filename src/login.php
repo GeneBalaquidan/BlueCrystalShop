@@ -98,7 +98,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 	<link rel="stylesheet" href"css/bootstrap.min.css"/>
 	<link rel="stylesheet" type="text/css" href="../css/main.css"/>
 	<meta name="vewport" content="width=device-width, initial-scale=1,user-scaleable=no">
-	<script src="js/bootstrap.min.js"></script>
+	<script src="../bootsrap/js/bootstrap.min.js"></script>
 </head>
 <body>
 <div id="background-Image">
