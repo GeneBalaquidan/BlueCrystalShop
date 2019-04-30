@@ -53,7 +53,7 @@ if($mysqli === false){
 		$insert1 = "INSERT IGNORE INTO products(id, title, price, list_price, categories, brand, images, description, featured)
 		VALUES
 		(1,'Levis Jeans',29.99,39.99,1,1,'../images/levis.jpg','These Levis Jeans are wonderful. Buy them now.',1),
-			(2,'Angel Backpack',20.99,29.99,1,2,'..//images/avon-angel-backpack.jpg','This Backpack is awesome. Buy one now.',1),
+			(2,'Angel Backpack',20.99,29.99,1,2,'../images/avon-angel-backpack.jpg','This Backpack is awesome. Buy one now.',1),
 			(3,'Underwire Bra',15.99,26.99,1,2,'../images/avon-daphne-uwire-bra.jpg','These brassieres are wonderful. Buy them now.',1),
 			(4,'Foot Powder',29.99,39.99,1,2,'../images/avon-deo-foot-powder.jpg','This Foot Powder is amazing. Buy now.',1),
 			(5,'Fendo Umbrella',29.99,39.99,1,2,'../images/avon-fendo-umbrella.jpg','These Umbrellas are cool. Buy now.',1),
